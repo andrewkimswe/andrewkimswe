@@ -6,10 +6,20 @@
 
 
 
-# My Algorithm Study Repo
-
-![LeetCode user](https://img.shields.io/badge/dynamic/json?color=yellow&label=LeetCode&query=total_problems_solved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fandrewkimswe)
-
+### Leetcode
+<div align="center">
+![LeetCode Stats](https://leetcode.card.workers.dev/YourUsername?theme=auto&font=baloo&extension=null)
+</div>
+  
+<details>
+  <summary><h2> <img align="center" src="https://github.com/andrewkimswe/andrewkimswe/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:andrewkimswe@gmail.com">
+      <img align="center" src="https://github.com/andrewkimswe/andrewkimswe/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>
 
 <!--
 
