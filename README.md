@@ -8,7 +8,7 @@
 
 # My Algorithm Study Repo
 
-![LeetCode user](https://img.shields.io/badge/dynamic/json?color=yellow&label=LeetCode&query=total_problems_solved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fandrewkimswe)
+![LeetCode user](https://img.shields.io/badge/dynamic/json?color=yellow&label=LeetCode&query=total_problems_solved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fandrewkimswe)
 
 
 <!--
