@@ -8,7 +8,7 @@
 
 ### Leetcode
 <div align="center">
-![LeetCode Stats](https://leetcode.card.workers.dev/YourUsername?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/andrewkimswe?theme=auto&font=baloo&extension=null)
 </div>
   
 <details>
