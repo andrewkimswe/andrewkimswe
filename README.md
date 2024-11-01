@@ -17,12 +17,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/andrew"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="andrew" /></a><a href="https://ko-fi.com/andrew"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="andrew" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewkimswe&show_icons=true&locale=en&layout=compact" alt="andrewkimswe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewkimswe&show_icons=true&locale=en" alt="andrewkimswe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewkimswe&" alt="andrewkimswe" /></p>
-
 <details>
   <summary><h2> <img align="center" src="https://github.com/andrewkimswe/andrewkimswe/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
   <p><i>You can reach out to me via:</i></p>
