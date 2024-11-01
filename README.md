@@ -16,14 +16,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/andrew"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="andrew" /></a><a href="https://ko-fi.com/andrew"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="andrew" /></a></p><br><br>
-
-<details>
-  <summary><h2> <img align="center" src="https://github.com/andrewkimswe/andrewkimswe/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
-  <p><i>You can reach out to me via:</i></p>
-  <p>
-    📫 <strong>andrewkimswe@gmail.com</strong>
-    <br>
-    <a href="https://www.linkedin.com/in/jiwon-kim-867334285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiwon kim" height="30" width="40" /></a>
-    <a href="https://instagram.com/jiwon__nn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jiwon__nn" height="30" width="40" /></a>
-  </p>
-</details>
