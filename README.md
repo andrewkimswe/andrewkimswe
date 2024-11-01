@@ -22,3 +22,14 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
+
+<details>
+  <summary><h2> <img align="center" src="https://github.com/andrewkimswe/andrewkimswe/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p><i>You can reach out to me via:</i></p>
+  <p>
+    📫 <strong>andrewkimswe@gmail.com</strong>
+    <br>
+    <a href="https://www.linkedin.com/in/jiwon-kim-867334285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiwon kim" height="30" width="40" /></a>
+    <a href="https://instagram.com/jiwon__nn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jiwon__nn" height="30" width="40" /></a>
+  </p>
+</details>
