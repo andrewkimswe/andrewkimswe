@@ -12,15 +12,12 @@
 </div>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/andrewkimswe/andrewkimswe/blob/main/icons/Contact.gif" width="37"/> Contact Me & Connect with Me</h2></summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:andrewkimswe@gmail.com">
-      <img align="center" src="https://github.com/andrewkimswe/andrewkimswe/blob/main/icons/Gmail.gif" width="100"/>
-    </a>
-  </p>
+  
+  <p>📫 How to reach me <strong>andrewkimswe@gmail.com</strong></p>
+  
   <p align="left">
     <a href="https://www.linkedin.com/in/jiwon-kim-867334285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiwon kim" height="30" width="40" /></a>
     <a href="https://instagram.com/jiwon__nn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jiwon__nn" height="30" width="40" /></a>
+    
   </p>
 </details>
