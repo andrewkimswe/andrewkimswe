@@ -1,8 +1,5 @@
 # Hi 👋, I'm Jiwon Kim
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewkimswe&label=Profile%20views&color=0e75b6&style=flat" alt="andrewkimswe" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrewkimswe" alt="andrewkimswe" /></a> </p>
-
 ![andrewkimswe's github stats](https://github-readme-stats.vercel.app/api?username=andrewkimswe&show_icons=true)
 [![andrewkimswe's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkimswe&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/andrewkimswe)
 
@@ -22,6 +19,13 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
+
+## Projects
+
+|project|Language|Status|App Store|
+| --------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- |
+|[MusinsaObserver](https://github.com/MusinsaObserver) &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Java(Spring)&Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Progressing &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Preparing 🏭 &nbsp; &nbsp; &nbsp; |
+|[CrumpDump](https://github.com/AppleFoundationProgram)| &nbsp; &nbsp; &nbsp; Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Sustaining &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; [CrumpDump](https://apps.apple.com/kr/app/crumpdump/id6737130375) &nbsp; &nbsp; &nbsp; |
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/andrewkimswe/andrewkimswe/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
