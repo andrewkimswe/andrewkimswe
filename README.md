@@ -22,9 +22,9 @@
 
 ## Projects
 
-|project|Language|Status|App Store|
+|Project|Tech Stack|Status|App Store|
 | --------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- |
-|[MusinsaObserver](https://github.com/MusinsaObserver) &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Java(Spring)&Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Progressing &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Preparing 🏭 &nbsp; &nbsp; &nbsp; |
+|[MusinsaObserver](https://github.com/MusinsaObserver) &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; SpringBoot, Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Progressing &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Preparing 🏭 &nbsp; &nbsp; &nbsp; |
 |[CrumpDump](https://github.com/AppleFoundationProgram)| &nbsp; &nbsp; &nbsp; Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Sustaining &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; [CrumpDump](https://apps.apple.com/kr/app/crumpdump/id6737130375) &nbsp; &nbsp; &nbsp; |
 
 <details>
