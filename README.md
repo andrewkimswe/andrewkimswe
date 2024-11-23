@@ -19,7 +19,7 @@
 
 |Project|Tech Stack|Status|App Store|
 | --------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- |
-| Apple Vision Pro App (Private) &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Progressing &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Prototyping 🏭 &nbsp; &nbsp; &nbsp; |
+| [베와보카(BewaVoca)](https://github.com/DigiLabChallengeHackathon/bewavoca-server) &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; SpringBoot &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Progressing &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Developing 🏭 &nbsp; &nbsp; &nbsp; |
 |[MusinsaObserver](https://github.com/MusinsaObserver) &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; SpringBoot, Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Progressing &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Developing 🏭 &nbsp; &nbsp; &nbsp; |
 |[CrumpDump](https://github.com/AppleFoundationProgram/ios)| &nbsp; &nbsp; &nbsp; Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Sustaining &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; [CrumpDump](https://apps.apple.com/kr/app/crumpdump/id6737130375) &nbsp; &nbsp; &nbsp; |
 
