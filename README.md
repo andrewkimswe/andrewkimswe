@@ -20,8 +20,8 @@
 |Project|Tech Stack|Status|App Store|
 | --------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- |
 | [베와보카(BewaVoca)](https://github.com/DigiLabChallengeHackathon/bewavoca-server) &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; SpringBoot &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Progressing &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Developing 🏭 &nbsp; &nbsp; &nbsp; |
-|[MusinsaObserver](https://github.com/MusinsaObserver) &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; SpringBoot, Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Progressing &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Developing 🏭 &nbsp; &nbsp; &nbsp; |
-|[CrumpDump](https://github.com/AppleFoundationProgram/ios)| &nbsp; &nbsp; &nbsp; Swift &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Sustaining &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; [CrumpDump](https://apps.apple.com/kr/app/crumpdump/id6737130375) &nbsp; &nbsp; &nbsp; |
+|[MusinsaObserver](https://github.com/MusinsaObserver) &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; SpringBoot, SwiftUI &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Progressing &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Developing 🏭 &nbsp; &nbsp; &nbsp; |
+|[CrumpDump](https://github.com/AppleFoundationProgram/ios)| &nbsp; &nbsp; &nbsp; SwiftUI &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Sustaining &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; [CrumpDump](https://apps.apple.com/kr/app/crumpdump/id6737130375) &nbsp; &nbsp; &nbsp; |
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/andrewkimswe/andrewkimswe/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
