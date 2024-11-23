@@ -3,11 +3,6 @@
 ![andrewkimswe's github stats](https://github-readme-stats.vercel.app/api?username=andrewkimswe&show_icons=true)
 [![andrewkimswe's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkimswe&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/andrewkimswe)
 
-### Leetcode
-<div align="center">
-  <img src="https://leetcode.card.workers.dev/andrewkimswe?theme=auto&font=baloo&extension=null" alt="LeetCode Stats">
-</div>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
