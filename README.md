@@ -37,11 +37,11 @@
 
 ## Projects
 
-| Project       | Tech Stack                | Status       | Links       |
-|---------------|---------------------------|--------------|-------------|
-| 베와보카      | Spring Boot               | Sustaining   | [Repo](https://github.com/DigiLabChallengeHackathon) |
-| MusinsaObserver | Spring Boot, SwiftUI    | Sustaining   | [Repo](https://github.com/MusinsaObserver) |
-| CrumpDump     | SwiftUI                  | Released     | [App Store](https://apps.apple.com/kr/app/crumpdump/id6737130375) |
+| Project        | Tech Stack                | Status                                   | Links                                                        |
+|----------------|---------------------------|------------------------------------------|-------------------------------------------------------------|
+| 베와보카       | Spring Boot               | Sustaining                               | [Repo](https://github.com/DigiLabChallengeHackathon)         |
+| MusinsaObserver | Spring Boot, SwiftUI     | Website: Released, iOS App: TestFlight  | [Repo](https://github.com/MusinsaObserver)                  |
+| CrumpDump      | SwiftUI                  | Released                                 | [App Store](https://apps.apple.com/kr/app/crumpdump/id6737130375) |
 
 
 <details>
