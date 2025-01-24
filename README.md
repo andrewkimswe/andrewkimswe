@@ -39,9 +39,10 @@
 
 | Project        | Tech Stack                | Status                                   | Links                                                                                  |
 |----------------|---------------------------|------------------------------------------|---------------------------------------------------------------------------------------|
-| 베와보카       | Spring Boot               | Sustaining                               | [Repo](https://github.com/DigiLabChallengeHackathon) &#124; [Website](https://bewavoca.com) |
-| MusinsaObserver | Spring Boot, SwiftUI     | Website: Released, iOS App: TestFlight  | [Repo](https://github.com/MusinsaObserver) &#124; [Website](https://musinsa-observer.store) |
-| CrumpDump      | SwiftUI                  | Released                                 | [Repo](https://github.com/CrumpDump) &#124; [App Store](https://apps.apple.com/kr/app/crumpdump/id6737130375) |
+| [프레젠톡](https://github.com/HongikComputerClub)       | Spring Boot               | Progressing                               | Preparing 🏭  |
+| [베와보카](https://github.com/DigiLabChallengeHackathon)       | Spring Boot               | Progressing                               | [Website](https://bewavoca.com) |
+| [MusinsaObserver](https://github.com/MusinsaObserver) | Spring Boot, SwiftUI     | Sustaining(Website: Released, iOS App: TestFlight)  | [Website](https://musinsa-observer.store) |
+| [CrumpDump](https://github.com/AppleFoundationProgram)      | SwiftUI                  | Completion                                 | [App Store](https://apps.apple.com/kr/app/crumpdump/id6737130375) |
 
 
 <details>
