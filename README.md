@@ -10,6 +10,8 @@
 ![andrewkimswe's github stats](https://github-readme-stats.vercel.app/api?username=andrewkimswe&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkimswe&layout=compact&theme=radical)
 
+![Codeforces Rating](https://img.shields.io/badge/dynamic/json?color=blue&label=Codeforces%20Rating&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=andrewkimswe)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
