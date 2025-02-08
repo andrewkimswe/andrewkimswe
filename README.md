@@ -10,6 +10,8 @@
 ![andrewkimswe's github stats](https://github-readme-stats.vercel.app/api?username=andrewkimswe&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkimswe&layout=compact&theme=radical)
 
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=foundationprogram)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
