@@ -12,22 +12,6 @@
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=foundationprogram)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/452/xcode.png" alt="Xcode" width="40" height="40"/> 
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> 
-  </a>
-</p>
-
 ## Projects
 
 | Project        | Tech Stack                | Status                                   | Links                                                                                  |
