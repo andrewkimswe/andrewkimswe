@@ -20,7 +20,7 @@
 | 동아리박람회 프로젝트      | Spring Boot               | Progressing                               | Preparing 🏭 |
 | [프레젠톡](https://github.com/HongikComputerClub)       | Spring Boot               | Sustaining                               | [Website](https://presentalk.store/)  |
 | [베와보카](https://github.com/DigiLabChallengeHackathon)       | Spring Boot               | Progressing                               | Preparing 🏭 |
-| [MusinsaObserver](https://github.com/MusinsaObserver) | Spring Boot, SwiftUI     | Sustaining(Website: Released, iOS App: TestFlight)  | [Website](https://musinsa-observer.store) |
+| [MusinsaObserver](https://github.com/MusinsaObserver) | Spring Boot, SwiftUI     | Completion  | [Website](https://musinsa-observer.store) |
 | [CrumpDump](https://github.com/AppleFoundationProgram)      | SwiftUI                  | Completion                                 | [App Store](https://apps.apple.com/kr/app/crumpdump/id6737130375) |
 
 
