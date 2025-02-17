@@ -14,8 +14,8 @@
 
 | Project        | Tech Stack                | Status                                   | Links                                                                                  | Notes |
 |----------------|---------------------------|------------------------------------------|---------------------------------------------------------------------------------------|-------|
-| 졸업 프로젝트(private)      | Spring Boot, React               | Progressing                               | Preparing 🏭 | - |
-| 동아리박람회 프로젝트(private)      | Spring Boot               | Progressing                               | Preparing 🏭 | - |
+| 졸업 프로젝트      | Spring Boot, React               | Progressing                               | Preparing 🏭 | - |
+| 동아리박람회 프로젝트      | Spring Boot               | Progressing                               | Preparing 🏭 | - |
 | [베와보카](https://github.com/DigiLabChallengeHackathon)       | Spring Boot               | Progressing                               | Preparing 🏭 | 🥈 [DigiLab Challenge Hackathon](https://digilab-hackathon.com/) 최우수상 |
 | [프레젠톡](https://github.com/HongikComputerClub)       | Spring Boot               | Sustaining                               | [Website](https://presentalk.store/)  | 🥇 [HICC 프로젝트 발표대회](https://www.hicc.co.kr/) 대상 |
 | [MusinsaObserver](https://github.com/MusinsaObserver) | Spring Boot, SwiftUI     | Completion  | - | 🥉 [HICC 프로젝트 발표대회](https://www.hicc.co.kr/) 우수상 |
