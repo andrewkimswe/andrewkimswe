@@ -10,15 +10,14 @@
 ![andrewkimswe's github stats](https://github-readme-stats.vercel.app/api?username=andrewkimswe&show_icons=true&theme=radical)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=foundationprogram)
 
-## Projects
-
-| Project        | Tech Stack                | Status                                   | Links                                                                                  | Notes |
-|----------------|---------------------------|------------------------------------------|---------------------------------------------------------------------------------------|-------|
-| [동아리 박람회 프로젝트](https://github.com/hicc-dvp)       | Spring Boot               | 🚀 Sustaining                               | 🏭 Preparing | 🌐 2025 Hongik University Club Fair |
-| [베와보카](https://github.com/DigiLabChallengeHackathon)       | Spring Boot               | 🚀 Sustaining                               | 🏭 Preparing | 🥈 [DigiLab Challenge Hackathon](https://digilab-hackathon.com/) 최우수상 |
-| [프레젠톡](https://github.com/HongikComputerClub)       | Spring Boot               | 🚀 Sustaining                               | 🌎 [Website](https://presentalk.store/)  | 🥇 HICC 프로젝트 발표대회 대상 |
-| [MusinsaObserver](https://github.com/MusinsaObserver) | Spring Boot, SwiftUI     | ✅ Completed  | - | 🥉 HICC 프로젝트 발표대회 우수상 |
-| [CrumpDump](https://github.com/AppleFoundationProgram)      | SwiftUI                  | ✅ Completed                                 | 🍏 [App Store](https://apps.apple.com/kr/app/crumpdump/id6737130375) | 🍏 [Apple Foundation Program](https://developeracademy.postech.ac.kr/foundation-program) |
+| Project                                                   | Tech Stack                   | Status          | Links                                               | Notes                                                                                               |
+|-----------------------------------------------------------|-----------------------------|-----------------|------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| [한국형 SaaS 스타터 패키지](https://github.com/K-SaaS-Starter) | Spring Boot, React  | 🏗 In Progress | 🏭 Preparing                                        | 🎓 2025 Hongik University 졸업 프로젝트 전시회                                                         |
+| [동아리 박람회 프로젝트](https://github.com/hicc-dvp)       | Spring Boot                  | 🚀 Sustaining   | 🏭 Preparing                                        | 🌐 2025 Hongik University Club Fair                                                                   |
+| [베와보카](https://github.com/DigiLabChallengeHackathon)   | Spring Boot                  | 🚀 Sustaining   | 🏭 Preparing                                        | 🥈 [DigiLab Challenge Hackathon](https://digilab-hackathon.com/) 최우수상                              |
+| [프레젠톡](https://github.com/HongikComputerClub)          | Spring Boot                  | 🚀 Sustaining   | 🌎 [Website](https://presentalk.store/)             | 🥇 HICC 프로젝트 발표대회 대상                                                                        |
+| [MusinsaObserver](https://github.com/MusinsaObserver)      | Spring Boot, SwiftUI         | ✅ Completed    | -                                                  | 🥉 HICC 프로젝트 발표대회 우수상                                                                      |
+| [CrumpDump](https://github.com/AppleFoundationProgram)     | SwiftUI                      | ✅ Completed    | 🍏 [App Store](https://apps.apple.com/kr/app/crumpdump/id6737130375) | 🍏 [Apple Foundation Program](https://developeracademy.postech.ac.kr/foundation-program)               |
 
 
 <details>
