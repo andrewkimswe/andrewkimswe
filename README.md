@@ -12,11 +12,11 @@
 
 | Project                                                   | Tech Stack                   | Status          | Links                                               | Notes                                                                                               |
 |-----------------------------------------------------------|-----------------------------|-----------------|------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| - | Spring Boot, React  | 🏗 In Progress | 🏭 Preparing                                        | 🎓 2025 Hongik University 졸업 프로젝트 전시   |
 | [프레젠톡](https://github.com/HongikComputerClub)          | Spring Boot                  | 🚀 Sustaining   | 🌎 [Website](https://presentalk.store/)             | 🥇 HICC 프로젝트 발표대회 대상                                                                        |
-| [SaaS 스타터 패키지](https://github.com/K-SaaS-Starter) | Spring Boot, React  | 🏗 In Progress | 🏭 Preparing                                        | 🎓 2025 Hongik University 졸업 프로젝트 전시                                                         |
 | [베와보카](https://github.com/DigiLabChallengeHackathon)   | Spring Boot                  | 🚀 Sustaining   | 🏭 Preparing                                        | 🥈 [DigiLab Challenge Hackathon](https://digilab-hackathon.com/) 최우수상                              |
-| [동아리 박람회](https://github.com/hicc-dvp)       | Spring Boot                  | 🚀 Sustaining   | 🌎  [Website](https://hicc.space)                           | 🌐 2025 Hongik University Club Fair                                                                   |
 | [MusinsaObserver](https://github.com/MusinsaObserver)      | Spring Boot, SwiftUI         | ✅ Completed    | -                                                  | 🥉 HICC 프로젝트 발표대회 우수상                                                                      |
+| [동아리 박람회](https://github.com/hicc-dvp)       | Spring Boot                  | ✅ Completed   | -   | 🌐 2025 Hongik University Club Fair |
 | [CrumpDump](https://github.com/AppleFoundationProgram)     | SwiftUI                      | ✅ Completed    | 🍏 [App Store](https://apps.apple.com/kr/app/crumpdump/id6737130375) | 🍏 [Apple Foundation Program](https://developeracademy.postech.ac.kr/foundation-program)               |
 
 
