@@ -12,7 +12,7 @@
 
 | Project                                                   | Tech Stack                   | Status          | Links                                               | Notes                                                                                               |
 |-----------------------------------------------------------|-----------------------------|-----------------|------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| - | Spring Boot, React  | 🏗 In Progress | 🏭 Preparing                                        | 🎓 2025 Hongik University 졸업 프로젝트 전시   |
+| - | Rust, WebAssembly  | 🏗 In Progress | 🏭 Preparing                                        | 🎓 2025 Hongik University 졸업 프로젝트 전시   |
 | [프레젠톡](https://github.com/HongikComputerClub)          | Spring Boot                  | 🚀 Sustaining   | 🌎 [Website](https://presentalk.store/)             | 🥇 HICC 프로젝트 발표대회 대상                                                                        |
 | [베와보카](https://github.com/DigiLabChallengeHackathon)   | Spring Boot                  | 🚀 Sustaining   | 🏭 Preparing                                        | 🥈 [DigiLab Challenge Hackathon](https://digilab-hackathon.com/) 최우수상                              |
 | [MusinsaObserver](https://github.com/MusinsaObserver)      | Spring Boot, SwiftUI         | ✅ Completed    | -                                                  | 🥉 HICC 프로젝트 발표대회 우수상                                                                      |
