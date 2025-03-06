@@ -16,7 +16,7 @@
 | [프레젠톡](https://github.com/HongikComputerClub)          | Spring Boot                  | 🚀 Sustaining   | 🌎 [Website](https://presentalk.store/)             | 🥇 HICC 프로젝트 발표대회 대상                                                                        |
 | [베와보카](https://github.com/DigiLabChallengeHackathon)   | Spring Boot                  | 🚀 Sustaining   | 🏭 Preparing                                        | 🥈 [DigiLab Challenge Hackathon](https://digilab-hackathon.com/) 최우수상                              |
 | [MusinsaObserver](https://github.com/MusinsaObserver)      | Spring Boot, SwiftUI         | ✅ Completed    | -                                                  | 🥉 HICC 프로젝트 발표대회 우수상                                                                      |
-| [동아리 박람회](https://github.com/hicc-dvp)       | Spring Boot                  | ✅ Completed   | -   | 🌐 2025 Hongik University Club Fair |
+| [동아리 박람회](https://github.com/hicc-dvp)       | Spring Boot                  | ✅ Completed   | -   | 🌐 2025 Hongik University Club Fair 🌎 1k+ Users |
 | [CrumpDump](https://github.com/AppleFoundationProgram)     | SwiftUI                      | ✅ Completed    | 🍏 [App Store](https://apps.apple.com/kr/app/crumpdump/id6737130375) | 🍏 [Apple Foundation Program](https://developeracademy.postech.ac.kr/foundation-program)               |
 
 
