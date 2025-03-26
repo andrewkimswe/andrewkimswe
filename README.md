@@ -12,7 +12,6 @@
 
 | Project                                                   | Tech Stack                   | Status          | Links                                               | Notes                                                                                               |
 |-----------------------------------------------------------|-----------------------------|-----------------|------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| [MinoriDUI-Report](https://github.com/MinoriDUI-Report) | Rust, Python, ML  | 🏗 In Progress | 🏭 Preparing                                        | 🎓 2025 HIU 졸업 프로젝트 전시   |
 | [프레젠톡/PresenTalk](https://github.com/HongikComputerClub)          | Spring Boot(Java)                  | 🚀 Sustaining   | 🌎 [Website](https://presentalk.store/)             | 🥇 HICC 프로젝트 발표대회 대상                                                                        |
 | - | Spring Boot(Java) | 🏗 In Progress | 🏭 Preparing                                        |  해커톤  |
 | - | Spring Boot(Kotlin) | 🏗 In Progress | 🏭 Preparing                                        |  학습용  |
@@ -20,7 +19,7 @@
 | [MusinsaObserver](https://github.com/MusinsaObserver)      | Spring Boot(Java), SwiftUI         | ✅ Completed    | -                                                  | 🥉 HICC 프로젝트 발표대회 우수상                                                                      |
 | [동아리 박람회/Club Fair](https://github.com/hicc-dvp)       | Spring Boot(Java)                  | ✅ Completed   | -   | 🌐 2025 HIU Club Fair 🌎 1k+ Users |
 | [CrumpDump](https://github.com/AppleFoundationProgram)     | SwiftUI, CoreML        | ✅ Completed    | 🍏 [App Store](https://apps.apple.com/kr/app/crumpdump/id6737130375) | 🍏 [Apple Foundation Program](https://developeracademy.postech.ac.kr/foundation-program)               |
-
+| [MinoriDUI-Report](https://github.com/MinoriDUI-Report) | Rust, Python, ML  | 🏗 In Progress | 🏭 Preparing                                        | 🎓 2025 HIU 졸업 프로젝트 전시   |
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/andrewkimswe/andrewkimswe/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
