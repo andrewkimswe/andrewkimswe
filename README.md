@@ -16,8 +16,8 @@
 | [Moong-Hackathon](https://github.com/Moong-Hackathon) | Spring Boot(Java) | 🏗 In Progress | 🏭 Preparing                                        | [Moong 연합 커넥톤](https://gdscinha2425.notion.site/1-Moong-1b837fea7031808d9154ed9fb6ee3c3d)  |
 | - | Spring Boot(Kotlin) | 🏗 In Progress | 🏭 Preparing                                        |  학습용  |
 | [베와보카/BewaVoca](https://github.com/DigiLabChallengeHackathon)   | Spring Boot(Java), SwiftUI                  | ✅ Completed   | -                                        | 🥈 [DigiLab Challenge Hackathon] 최우수상                              |
-| [MusinsaObserver](https://github.com/MusinsaObserver)      | Spring Boot(Java), SwiftUI         | ✅ Completed    | -                                                  | 🥉 HICC 프로젝트 발표대회 우수상                                                                      |
-| [동아리 박람회/Club Fair](https://github.com/hicc-dvp)       | Spring Boot(Java)                  | ✅ Completed   | -   | 🌐 2025 HIU Club Fair 🌎 1k+ Users |
+| [MusinsaObserver](https://github.com/MusinsaObserver)      | Spring Boot(Java), SwiftUI         | ✅ Completed    | 외부 정책 변경으로 인해 서비스 종료 | 🥉 HICC 프로젝트 발표대회 우수상   |
+| [동아리 박람회/Club Fair](https://github.com/hicc-dvp)       | Spring Boot(Java)                  | ✅ Completed   | 2025 동아리 홍보 프로젝트로 전환을 위한 리팩토링 진행 중  | 🌐 2025 HIU Club Fair 🌎 1k+ Users |
 | [CrumpDump](https://github.com/AppleFoundationProgram)     | SwiftUI, CoreML        | ✅ Completed    | 🍏 [App Store](https://apps.apple.com/kr/app/crumpdump/id6737130375) | 🍏 [Apple Foundation Program](https://developeracademy.postech.ac.kr/foundation-program)               |
 | [MinoriDUI-Report](https://github.com/MinoriDUI-Report) | Rust, Python, ML  | 🏗 In Progress | 🏭 Preparing                                        | 🎓 2025 HIU 졸업 프로젝트 전시   |
 
