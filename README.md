@@ -1,14 +1,11 @@
-# Hi, I'm Jiwon Kim 👋
+# Jiwon Kim
 
-Senior in Computer Engineering at Hongik University.
+Software Engineer @ Wavice  
+Backend · Cloud Infrastructure · Applied AI
 
-## Awards
+Working on enterprise IT operations in the semiconductor industry.
 
-- **Korean Entrepreneurship Foundation Prize** (한국청년기업가정신재단상)  
-  *MOONG Connecton · May 2025*
+**Focus:** Java/Spring Boot · AWS/Kubernetes · RAG & Observability
 
-- **Grand Prize** (대상)  
-  *Hongik Computer Club · Feb 2025, Aug 2025*
-
-- **Excellence Award** (최우수상)  
-  *Jeju Regional Innovation Platform Intelligent Service Division · Dec 2024*
+**Highlights:** AWS SAA · Palantir Foundry Aware · Engineer Information Processing · SQLD  
+**Awards:** Korean Entrepreneurship Foundation Prize · HICC Grand Prize ×2 · Jeju RIS Excellence Award
