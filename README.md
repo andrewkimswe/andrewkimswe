@@ -1,13 +1,12 @@
-# Jiwon Kim
+**Forward Deployed Engineer @ Wavice**  
+Applied AI · Enterprise Systems Integration · Semiconductor Manufacturing
 
-Software Engineer @ Wavice  
-Enterprise Systems · Backend · Cloud Infrastructure · Applied AI
+Building AI-powered solutions that bridge business needs and production systems.
 
-Working on enterprise IT operations and internal systems in the semiconductor industry.
+**AI:** On-Premises LLMs · RAG · AI Evaluation  
+**Engineering:** Java/Spring Boot · C#/.NET · AWS/Kubernetes  
+**Domain:** MES · ERP · Manufacturing IT  
+**Focus:** Systems Integration · Software Architecture · End-to-End Delivery
 
-Hongik University · Apple Developer Academy @ POSTECH Foundation Program
-
-**Current:** C#/.NET · JavaScript · SQL Server · DevExpress  
-**Focus:** Java/Spring Boot · AWS/Kubernetes · RAG · Observability  
-**Highlights:** AWS SAA · Palantir Foundry Aware · Engineer Information Processing · SQLD  
-**Awards:** Korean Entrepreneurship Foundation Prize · HICC Grand Prize ×2 · Jeju RIS Excellence Award
+Hongik University · Apple Developer Academy @ POSTECH  
+AWS SAA · Palantir Foundry Aware · Engineer Information Processing · SQLD
